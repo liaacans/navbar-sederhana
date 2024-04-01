@@ -15,6 +15,6 @@ Aulia Rahman
 
 
 DEMO :
-<a href="" target="_blank">
+<a href="https://liaacans.github.io/navbar-sederhana/" target="_blank">
 Klik Ini
 </a>
