@@ -1,0 +1,82 @@
+*{
+     margin: 0;
+     padding: 0;
+     text-decoration: none;
+     text-transform: uppercase;
+     box-sizing: border-box;
+     }
+     body {
+     background-color: rgba(120, 195, 80, 0.4);
+     background-size: cover;
+     background-position: center;
+     background-attachment: fixed;
+     }
+     .header {
+     font-size: 30px;
+     color: white;
+     text-align: center;
+     font-weight: bold;
+     font-height: 70px;
+     background: #1e1e1e;
+     border-bottom: 1px solid black;
+     }
+     .menu {
+     position: fixed;
+     left: 0;
+     width: 240px;
+     height: 100%;
+     background: #1b1b1b;
+     border-right: 1px solid cyan;
+     transition: all .5s ease;
+     }
+     .menu a {
+     display: block;
+     height: 65px;
+     width: 100%;
+     color: white;
+     line-height: 65px;
+     padding-left: 30px;
+     border-bottom: 1px solid black;
+     border-top: 1px solid rgba(255, 255, 255, 255, 1);
+     border-left: 5px solid transparent;
+     transition: all .5s ease;
+     }
+     .menu a:hover, .menu a.active {
+     color: cyan;
+     background-color: black;
+     border-left: 5px solid cyan;
+     }
+     .dropdown {
+     position: relative;
+     display: inline-block;
+     width: 240px;
+     border-right: 1px solid cyan;
+     }
+     .dropbtn i {
+     float: right;
+     position: relative;
+     right: 20px;
+     top: 26px;
+     }
+     .content {
+     display: none;
+     background: blue;
+     min-width: 240px;
+     font-size: 16px;
+     border-top: 1px solid black;
+     position: relative;
+     border-right: 1px solid cyan;
+     }
+     .dropdown:hover .content {
+     display: block;
+     }
+     .content a {
+     line-height: 65px;
+     padding-left: 30px;
+     border-bottom: 1px solid rgb(197, 197, 250);
+     transition: all .5s ease;
+     }
+     .content a:hover {
+     color: cyan;
+     background: black;
+     }
