@@ -8,9 +8,9 @@ Ortu Saya
 Aulia Rahman
 ```
 
-(`GITHUB`)[https://github.com/liaacans]
-(`IG OFC`)[https://cloudpedia.biz.id/igoffc]
-(`YT OFC`)[https://cloudpedia.biz.id/ytoffc]
+(`GITHUB`)[https://github.com/liaacans]<br>
+(`IG OFC`)[https://cloudpedia.biz.id/igoffc]<br>
+(`YT OFC`)[https://cloudpedia.biz.id/ytoffc]<br>
 
 
 
